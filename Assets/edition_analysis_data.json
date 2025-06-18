@@ -1,0 +1,113 @@
+{
+  "edition_distribution": {
+    "Anniversary": 110,
+    "Standard": 101,
+    "Special Release": 100,
+    "Holiday": 99,
+    "Limited": 90
+  },
+  "edition_performance": {
+    "Anniversary": {
+      "avg_sell_through_rate": 58.73,
+      "avg_damage_rate": 18.01,
+      "avg_price": 87.73,
+      "total_revenue": 283115980.0
+    },
+    "Holiday": {
+      "avg_sell_through_rate": 55.93,
+      "avg_damage_rate": 25.16,
+      "avg_price": 88.18,
+      "total_revenue": 241332925.0
+    },
+    "Limited": {
+      "avg_sell_through_rate": 56.32,
+      "avg_damage_rate": 22.81,
+      "avg_price": 83.61,
+      "total_revenue": 217990535.0
+    },
+    "Special Release": {
+      "avg_sell_through_rate": 56.26,
+      "avg_damage_rate": 21.27,
+      "avg_price": 87.25,
+      "total_revenue": 274664630.0
+    },
+    "Standard": {
+      "avg_sell_through_rate": 52.29,
+      "avg_damage_rate": 25.31,
+      "avg_price": 82.87,
+      "total_revenue": 230332375.0
+    }
+  },
+  "limited_vs_standard": {
+    "limited_edition": {
+      "count": 190,
+      "percentage": 38.0,
+      "avg_sell_through_rate": 56.29,
+      "avg_damage_rate": 22.0,
+      "avg_price": 85.53,
+      "total_revenue": 492655165.0
+    },
+    "standard_edition": {
+      "count": 310,
+      "percentage": 62.0,
+      "avg_sell_through_rate": 55.74,
+      "avg_damage_rate": 22.67,
+      "avg_price": 86.29,
+      "total_revenue": 754781280.0
+    }
+  },
+  "statistical_test": {
+    "t_statistic": 0.23243509493504336,
+    "p_value": 0.8162955835191361,
+    "significant_difference": false
+  },
+  "top_products_by_edition": {
+    "Limited": {
+      "name": "Air Jordan 1 Mid Shoes",
+      "sell_through_rate": 99.6580859046174
+    },
+    "Standard": {
+      "name": "Lacoste Carnaby Evo",
+      "sell_through_rate": 99.83125566875488
+    },
+    "Special Release": {
+      "name": "Puma Smash V2 Sneakers",
+      "sell_through_rate": 99.74459934021496
+    },
+    "Anniversary": {
+      "name": "Skechers D'Lites",
+      "sell_through_rate": 98.79246852710524
+    },
+    "Holiday": {
+      "name": "Saucony Jazz Original",
+      "sell_through_rate": 99.4836753786578
+    }
+  },
+  "price_ranges_by_edition": {
+    "Anniversary": {
+      "min": 35.0,
+      "max": 140.0,
+      "mean": 87.73
+    },
+    "Holiday": {
+      "min": 35.0,
+      "max": 140.0,
+      "mean": 88.18
+    },
+    "Limited": {
+      "min": 35.0,
+      "max": 140.0,
+      "mean": 83.61
+    },
+    "Special Release": {
+      "min": 35.0,
+      "max": 140.0,
+      "mean": 87.25
+    },
+    "Standard": {
+      "min": 35.0,
+      "max": 140.0,
+      "mean": 82.87
+    }
+  }
+}

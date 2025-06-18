@@ -1,0 +1,39 @@
+{
+  "dataset_structure": {
+    "total_records": 500,
+    "total_features": 20,
+    "categorical_features": 7,
+    "numerical_features": 10
+  },
+  "data_quality": {
+    "missing_values": 0,
+    "duplicate_rows": 0,
+    "completeness_percentage": 100.0
+  },
+  "key_metrics_summary": {
+    "sell_through_rate": {
+      "mean": 55.94665444521187,
+      "std": 25.772109786137445,
+      "min": 6.381266192117112,
+      "max": 99.83125566875488
+    },
+    "damage_rate": {
+      "mean": 22.413722347421878,
+      "std": 19.458791661811972,
+      "min": 0.0139236981342244,
+      "max": 89.97984741615086
+    },
+    "price": {
+      "mean": 86.0,
+      "std": 23.023034557600806,
+      "min": 35.0,
+      "max": 140.0
+    },
+    "estimated_revenue": {
+      "mean": 2494872.89,
+      "std": 1970712.8449344102,
+      "min": 189000.0,
+      "max": 10689910.0
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "dataset_overview": {
+    "total_records": 500,
+    "date_range": {
+      "start": 2015,
+      "end": 2024
+    },
+    "unique_brands": 20,
+    "product_types": 7,
+    "data_quality_score": 99.4,
+    "data_quality_rating": "Excellent"
+  },
+  "key_performance_indicators": {
+    "avg_sell_through_rate": 55.94665444521187,
+    "avg_damage_rate": 22.413722347421878,
+    "total_revenue": 1247436445.0,
+    "avg_price": 86.0,
+    "best_performing_product": "Lacoste Carnaby Evo",
+    "high_performers_count": 147
+  },
+  "performance_quadrants": {
+    "Low Performance - High Damage": 182,
+    "Low Performance - Low Damage": 68,
+    "High Performance - Low Damage": 182,
+    "High Performance - High Damage": 68
+  },
+  "top_insights": {
+    "strongest_correlation": "damage_rate vs sell_through_rate (-0.662)",
+    "best_performing_year": 2020,
+    "best_performing_quarter": "Q1",
+    "most_efficient_brand": "Nike Air Force",
+    "price_performance_relationship": "minimal correlation (-0.023)"
+  },
+  "recommendations": {
+    "data_science_projects": [
+      "Build sell-through prediction model using damage_rate as primary feature",
+      "Implement clustering analysis for product segmentation",
+      "Develop anomaly detection for quality control",
+      "Create demand forecasting models using temporal patterns"
+    ],
+    "business_actions": [
+      "Investigate and reduce damage rates (current avg: 22.4%)",
+      "Study top-performing brands for best practices",
+      "Implement real-time quality monitoring",
+      "Optimize production planning based on historical performance"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "sell_through_metrics": {
+    "mean": 55.94665444521187,
+    "median": 56.49041827878544,
+    "std": 25.772109786137445,
+    "min": 6.381266192117112,
+    "max": 99.83125566875488,
+    "best_product": "Lacoste Carnaby Evo",
+    "worst_product": "Nike Air Force 1 '07 Sneakers"
+  },
+  "damage_rate_metrics": {
+    "mean": 22.413722347421878,
+    "median": 17.676436076479163,
+    "std": 19.458791661811972,
+    "min": 0.0139236981342244,
+    "max": 89.97984741615086,
+    "highest_damage_product": "Saucony Jazz Original",
+    "lowest_damage_product": "Onitsuka Tiger Mexico 66"
+  },
+  "performance_categories": {
+    "Poor": 75,
+    "Fair": 133,
+    "Good": 145,
+    "Excellent": 147
+  },
+  "correlation_analysis": {
+    "sell_through_vs_damage_rate": -0.6622165003154545
+  }
+}

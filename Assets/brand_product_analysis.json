@@ -1,0 +1,200 @@
+{
+  "brand_performance": {
+    "Superga": {
+      "avg_sell_through_rate": 70.63,
+      "total_revenue": 57286190.0,
+      "product_count": 25
+    },
+    "Lacoste Carnaby Evo": {
+      "avg_sell_through_rate": 65.77,
+      "total_revenue": 68767080.0,
+      "product_count": 25
+    },
+    "Onitsuka Tiger Mexico": {
+      "avg_sell_through_rate": 61.32,
+      "total_revenue": 81466500.0,
+      "product_count": 25
+    },
+    "Puma Smash V": {
+      "avg_sell_through_rate": 59.23,
+      "total_revenue": 53683760.0,
+      "product_count": 25
+    },
+    "Reebok Classic Leather": {
+      "avg_sell_through_rate": 58.8,
+      "total_revenue": 54061530.0,
+      "product_count": 25
+    },
+    "Skechers D": {
+      "avg_sell_through_rate": 58.67,
+      "total_revenue": 55670775.0,
+      "product_count": 25
+    },
+    "Fila Disruptor II Premium": {
+      "avg_sell_through_rate": 58.65,
+      "total_revenue": 57953490.0,
+      "product_count": 25
+    },
+    "Columbia Trailstorm Waterproof": {
+      "avg_sell_through_rate": 58.65,
+      "total_revenue": 76462320.0,
+      "product_count": 25
+    },
+    "Nike Air Force": {
+      "avg_sell_through_rate": 56.77,
+      "total_revenue": 92344655.0,
+      "product_count": 25
+    },
+    "Air Jordan": {
+      "avg_sell_through_rate": 55.93,
+      "total_revenue": 94112150.0,
+      "product_count": 25
+    },
+    "Under Armour Charged Assert": {
+      "avg_sell_through_rate": 54.41,
+      "total_revenue": 63877500.0,
+      "product_count": 25
+    },
+    "Converse Chuck Taylor All Star": {
+      "avg_sell_through_rate": 54.38,
+      "total_revenue": 44664540.0,
+      "product_count": 25
+    },
+    "Saucony Jazz Original": {
+      "avg_sell_through_rate": 53.83,
+      "total_revenue": 65987280.0,
+      "product_count": 25
+    },
+    "New Balance": {
+      "avg_sell_through_rate": 53.77,
+      "total_revenue": 66943710.0,
+      "product_count": 25
+    },
+    "ASICS Gel": {
+      "avg_sell_through_rate": 53.72,
+      "total_revenue": 61421300.0,
+      "product_count": 25
+    },
+    "Adidas Originals Samba OG Shoes": {
+      "avg_sell_through_rate": 51.51,
+      "total_revenue": 60493200.0,
+      "product_count": 25
+    },
+    "Vans Old Skool": {
+      "avg_sell_through_rate": 50.39,
+      "total_revenue": 45071950.0,
+      "product_count": 25
+    },
+    "Red Tape Casual Sneakers": {
+      "avg_sell_through_rate": 48.59,
+      "total_revenue": 23272095.0,
+      "product_count": 25
+    },
+    "Nike Court Vision Low Shoes": {
+      "avg_sell_through_rate": 48.15,
+      "total_revenue": 48705920.0,
+      "product_count": 25
+    },
+    "Hoka One One Clifton": {
+      "avg_sell_through_rate": 45.76,
+      "total_revenue": 75190500.0,
+      "product_count": 25
+    }
+  },
+  "type_performance": {
+    "Almond": {
+      "avg_sell_through_rate": 53.47,
+      "avg_damage_rate": 22.16,
+      "total_revenue": 151457800.0
+    },
+    "Brownie": {
+      "avg_sell_through_rate": 56.76,
+      "avg_damage_rate": 21.58,
+      "total_revenue": 200130815.0
+    },
+    "Classic": {
+      "avg_sell_through_rate": 59.39,
+      "avg_damage_rate": 22.71,
+      "total_revenue": 149157740.0
+    },
+    "Creamy": {
+      "avg_sell_through_rate": 53.96,
+      "avg_damage_rate": 22.32,
+      "total_revenue": 168003930.0
+    },
+    "Crisper": {
+      "avg_sell_through_rate": 57.96,
+      "avg_damage_rate": 23.31,
+      "total_revenue": 189513595.0
+    },
+    "Peanut Butter": {
+      "avg_sell_through_rate": 54.76,
+      "avg_damage_rate": 21.86,
+      "total_revenue": 200593385.0
+    },
+    "White Chocolate": {
+      "avg_sell_through_rate": 55.37,
+      "avg_damage_rate": 23.11,
+      "total_revenue": 188579180.0
+    }
+  },
+  "top_products": [
+    {
+      "name": "Lacoste Carnaby Evo",
+      "sell_through_rate": 99.83125566875488,
+      "estimated_revenue": 4496255.0
+    },
+    {
+      "name": "Puma Smash V2 Sneakers",
+      "sell_through_rate": 99.74459934021496,
+      "estimated_revenue": 1827735.0
+    },
+    {
+      "name": "Air Jordan 1 Mid Shoes",
+      "sell_through_rate": 99.6580859046174,
+      "estimated_revenue": 10548340.0
+    },
+    {
+      "name": "Columbia Trailstorm Waterproof",
+      "sell_through_rate": 99.5805033959249,
+      "estimated_revenue": 3290100.0
+    },
+    {
+      "name": "Saucony Jazz Original",
+      "sell_through_rate": 99.4836753786578,
+      "estimated_revenue": 6720560.0
+    }
+  ],
+  "bottom_products": [
+    {
+      "name": "Nike Air Force 1 '07 Sneakers",
+      "sell_through_rate": 6.381266192117112,
+      "estimated_revenue": 583510.0
+    },
+    {
+      "name": "Nike Air Force 1 '07 Sneakers",
+      "sell_through_rate": 6.9577009336045474,
+      "estimated_revenue": 613640.0
+    },
+    {
+      "name": "Saucony Jazz Original",
+      "sell_through_rate": 7.502519072981142,
+      "estimated_revenue": 416960.0
+    },
+    {
+      "name": "Nike Court Vision Low Shoes",
+      "sell_through_rate": 7.636799548702519,
+      "estimated_revenue": 519840.0
+    },
+    {
+      "name": "New Balance 574 Core",
+      "sell_through_rate": 8.262874244212217,
+      "estimated_revenue": 611280.0
+    }
+  ],
+  "summary_stats": {
+    "total_brands": 20,
+    "total_product_types": 7,
+    "total_unique_products": 20
+  }
+}

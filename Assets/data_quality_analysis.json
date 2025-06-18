@@ -1,0 +1,29 @@
+{
+  "outlier_detection": {
+    "sell_through_outliers": 0,
+    "damage_rate_outliers": 3,
+    "revenue_anomalies": 0,
+    "consistency_issues": 0
+  },
+  "quality_metrics": {
+    "missing_values": 0,
+    "duplicate_records": 0,
+    "negative_values": 0,
+    "sell_through_over_100": 0,
+    "damage_rate_over_100": 0
+  },
+  "business_logic_validation": {
+    "production_quantity_mismatch": 0,
+    "total_logic_issues": 0
+  },
+  "overall_assessment": {
+    "total_records": 500,
+    "total_issues": 3,
+    "quality_score": 99.4,
+    "quality_rating": "Excellent"
+  },
+  "outlier_products": {
+    "sell_through_outliers": [],
+    "revenue_anomalies": []
+  }
+}

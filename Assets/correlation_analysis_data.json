@@ -1,0 +1,246 @@
+{
+  "correlation_matrix": {
+    "sell_through_rate": {
+      "sell_through_rate": 1.0,
+      "damage_rate": -0.6622165003154554,
+      "price": -0.023003037116253174,
+      "total_produced": -0.11725887337189918,
+      "total_sold": 0.619053468722307,
+      "damaged": -0.5933234966958483,
+      "estimated_revenue": 0.5708428921855908,
+      "unsold_inventory": -0.6102835784823089,
+      "is_limited_edition": 0.010415100725578502,
+      "year": -0.01647939407944682
+    },
+    "damage_rate": {
+      "sell_through_rate": -0.6622165003154554,
+      "damage_rate": 1.0,
+      "price": 0.013585538367108145,
+      "total_produced": 0.11495080700058638,
+      "total_sold": -0.3867607542286751,
+      "damaged": 0.8669604233562093,
+      "estimated_revenue": -0.3575588223886073,
+      "unsold_inventory": -0.0534984929242792,
+      "is_limited_edition": -0.016773826758860407,
+      "year": -0.008519120092225838
+    },
+    "price": {
+      "sell_through_rate": -0.023003037116253174,
+      "damage_rate": 0.013585538367108145,
+      "price": 1.0,
+      "total_produced": -0.015060433664987724,
+      "total_sold": -0.04829238270908803,
+      "damaged": 0.015020433228063868,
+      "estimated_revenue": 0.2730457753524914,
+      "unsold_inventory": 0.032901861731340035,
+      "is_limited_edition": -0.01612341476276696,
+      "year": -0.05644960902368569
+    },
+    "total_produced": {
+      "sell_through_rate": -0.11725887337189918,
+      "damage_rate": 0.11495080700058638,
+      "price": -0.015060433664987724,
+      "total_produced": 1.0,
+      "total_sold": 0.6525155536627026,
+      "damaged": 0.4703163512824321,
+      "estimated_revenue": 0.5999035965129134,
+      "unsold_inventory": 0.4089552471491867,
+      "is_limited_edition": 0.021988510552773528,
+      "year": -0.008267989556155153
+    },
+    "total_sold": {
+      "sell_through_rate": 0.619053468722307,
+      "damage_rate": -0.3867607542286751,
+      "price": -0.04829238270908803,
+      "total_produced": 0.6525155536627026,
+      "total_sold": 1.0,
+      "damaged": -0.14129298213481561,
+      "estimated_revenue": 0.9163162871073522,
+      "unsold_inventory": -0.1933321045099485,
+      "is_limited_edition": 0.025997453316220206,
+      "year": -0.00847698236719085
+    },
+    "damaged": {
+      "sell_through_rate": -0.5933234966958483,
+      "damage_rate": 0.8669604233562093,
+      "price": 0.015020433228063868,
+      "total_produced": 0.4703163512824321,
+      "total_sold": -0.14129298213481561,
+      "damaged": 1.0,
+      "estimated_revenue": -0.13041558158784813,
+      "unsold_inventory": 0.10537140054727408,
+      "is_limited_edition": -0.012992023500380959,
+      "year": -0.022981472517313223
+    },
+    "estimated_revenue": {
+      "sell_through_rate": 0.5708428921855908,
+      "damage_rate": -0.3575588223886073,
+      "price": 0.2730457753524914,
+      "total_produced": 0.5999035965129134,
+      "total_sold": 0.9163162871073522,
+      "damaged": -0.13041558158784813,
+      "estimated_revenue": 1.0,
+      "unsold_inventory": -0.1722814710777129,
+      "is_limited_edition": 0.038989767175048005,
+      "year": -0.03234263573395115
+    },
+    "unsold_inventory": {
+      "sell_through_rate": -0.6102835784823089,
+      "damage_rate": -0.0534984929242792,
+      "price": 0.032901861731340035,
+      "total_produced": 0.4089552471491867,
+      "total_sold": -0.1933321045099485,
+      "damaged": 0.10537140054727408,
+      "estimated_revenue": -0.1722814710777129,
+      "unsold_inventory": 1.0,
+      "is_limited_edition": 0.014466462524730963,
+      "year": 0.021446132813828647
+    },
+    "is_limited_edition": {
+      "sell_through_rate": 0.010415100725578502,
+      "damage_rate": -0.016773826758860407,
+      "price": -0.01612341476276696,
+      "total_produced": 0.021988510552773528,
+      "total_sold": 0.025997453316220206,
+      "damaged": -0.012992023500380959,
+      "estimated_revenue": 0.038989767175048005,
+      "unsold_inventory": 0.014466462524730963,
+      "is_limited_edition": 1.0,
+      "year": 0.032233241745335074
+    },
+    "year": {
+      "sell_through_rate": -0.01647939407944682,
+      "damage_rate": -0.008519120092225838,
+      "price": -0.05644960902368569,
+      "total_produced": -0.008267989556155153,
+      "total_sold": -0.00847698236719085,
+      "damaged": -0.022981472517313223,
+      "estimated_revenue": -0.03234263573395115,
+      "unsold_inventory": 0.021446132813828647,
+      "is_limited_edition": 0.032233241745335074,
+      "year": 1.0
+    }
+  },
+  "strongest_correlations": [
+    {
+      "variable1": "total_sold",
+      "variable2": "estimated_revenue",
+      "correlation": 0.9163162871073522,
+      "direction": "positive",
+      "strength": "strong"
+    },
+    {
+      "variable1": "damage_rate",
+      "variable2": "damaged",
+      "correlation": 0.8669604233562093,
+      "direction": "positive",
+      "strength": "strong"
+    },
+    {
+      "variable1": "sell_through_rate",
+      "variable2": "damage_rate",
+      "correlation": -0.6622165003154554,
+      "direction": "negative",
+      "strength": "moderate"
+    },
+    {
+      "variable1": "total_produced",
+      "variable2": "total_sold",
+      "correlation": 0.6525155536627026,
+      "direction": "positive",
+      "strength": "moderate"
+    },
+    {
+      "variable1": "sell_through_rate",
+      "variable2": "total_sold",
+      "correlation": 0.619053468722307,
+      "direction": "positive",
+      "strength": "moderate"
+    },
+    {
+      "variable1": "sell_through_rate",
+      "variable2": "unsold_inventory",
+      "correlation": -0.6102835784823089,
+      "direction": "negative",
+      "strength": "moderate"
+    },
+    {
+      "variable1": "total_produced",
+      "variable2": "estimated_revenue",
+      "correlation": 0.5999035965129134,
+      "direction": "positive",
+      "strength": "moderate"
+    },
+    {
+      "variable1": "sell_through_rate",
+      "variable2": "damaged",
+      "correlation": -0.5933234966958483,
+      "direction": "negative",
+      "strength": "moderate"
+    },
+    {
+      "variable1": "sell_through_rate",
+      "variable2": "estimated_revenue",
+      "correlation": 0.5708428921855908,
+      "direction": "positive",
+      "strength": "moderate"
+    },
+    {
+      "variable1": "total_produced",
+      "variable2": "damaged",
+      "correlation": 0.4703163512824321,
+      "direction": "positive",
+      "strength": "moderate"
+    },
+    {
+      "variable1": "total_produced",
+      "variable2": "unsold_inventory",
+      "correlation": 0.4089552471491867,
+      "direction": "positive",
+      "strength": "moderate"
+    },
+    {
+      "variable1": "damage_rate",
+      "variable2": "total_sold",
+      "correlation": -0.3867607542286751,
+      "direction": "negative",
+      "strength": "moderate"
+    },
+    {
+      "variable1": "damage_rate",
+      "variable2": "estimated_revenue",
+      "correlation": -0.3575588223886073,
+      "direction": "negative",
+      "strength": "moderate"
+    },
+    {
+      "variable1": "price",
+      "variable2": "estimated_revenue",
+      "correlation": 0.2730457753524914,
+      "direction": "positive",
+      "strength": "weak"
+    },
+    {
+      "variable1": "total_sold",
+      "variable2": "unsold_inventory",
+      "correlation": -0.1933321045099485,
+      "direction": "negative",
+      "strength": "weak"
+    }
+  ],
+  "key_business_correlations": {
+    "sell_through_vs_damage": -0.6622165003154545,
+    "price_vs_revenue": 0.27304577535249136,
+    "price_vs_sell_through": -0.02300303711625312,
+    "production_vs_sales": 0.6525155536627033
+  },
+  "efficiency_correlations": {
+    "sales_efficiency_vs_price": -0.02300303711625311,
+    "revenue_efficiency_vs_price": 0.4436326349051357,
+    "sales_efficiency_vs_damage": -0.6622165003154548
+  },
+  "segmented_correlations": {
+    "high_price_damage_vs_sellthrough": -0.6532057691258992,
+    "low_price_damage_vs_sellthrough": -0.6723955580835133
+  }
+}

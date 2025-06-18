@@ -1,0 +1,59 @@
+{
+  "price_statistics": {
+    "mean": 86.0,
+    "median": 82.5,
+    "std": 23.023034557600806,
+    "min": 35.0,
+    "max": 140.0
+  },
+  "correlation_analysis": {
+    "price_vs_sell_through": -0.02300303711625312,
+    "price_vs_revenue": 0.27304577535249136,
+    "price_vs_damage_rate": 0.013585538367108012
+  },
+  "price_bucket_performance": {
+    "High": {
+      "avg_sell_through_rate": 54.28,
+      "avg_damage_rate": 23.29,
+      "total_revenue": 338109625.0,
+      "product_count": 100,
+      "price_range": {
+        "min": 110.0,
+        "max": 140.0
+      }
+    },
+    "Low": {
+      "avg_sell_through_rate": 48.59,
+      "avg_damage_rate": 23.79,
+      "total_revenue": 23272095.0,
+      "product_count": 25,
+      "price_range": {
+        "min": 35.0,
+        "max": 35.0
+      }
+    },
+    "Mid": {
+      "avg_sell_through_rate": 56.88,
+      "avg_damage_rate": 22.09,
+      "total_revenue": 886054725.0,
+      "product_count": 375,
+      "price_range": {
+        "min": 60.0,
+        "max": 100.0
+      }
+    }
+  },
+  "performance_segments": {
+    "high_performers": {
+      "criteria": ">75% sell-through",
+      "count": 147,
+      "avg_price": 85.20408163265306
+    },
+    "low_performers": {
+      "criteria": "<25% sell-through",
+      "count": 75,
+      "avg_price": 90.66666666666667
+    },
+    "price_premium": -5.462585034013614
+  }
+}

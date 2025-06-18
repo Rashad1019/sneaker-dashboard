@@ -1,0 +1,122 @@
+{
+  "yearly_trends": [
+    {
+      "year": 2015,
+      "sell_through_rate": 57.985060019609016,
+      "damage_rate": 21.741819141022237,
+      "estimated_revenue": 114549345
+    },
+    {
+      "year": 2016,
+      "sell_through_rate": 57.30438672766099,
+      "damage_rate": 21.871913205279522,
+      "estimated_revenue": 141758420
+    },
+    {
+      "year": 2017,
+      "sell_through_rate": 55.15150908733397,
+      "damage_rate": 23.68117484296621,
+      "estimated_revenue": 114926245
+    },
+    {
+      "year": 2018,
+      "sell_through_rate": 54.61673128698652,
+      "damage_rate": 23.79209682508049,
+      "estimated_revenue": 117797575
+    },
+    {
+      "year": 2019,
+      "sell_through_rate": 54.13119238751597,
+      "damage_rate": 23.946304889024198,
+      "estimated_revenue": 126844355
+    },
+    {
+      "year": 2020,
+      "sell_through_rate": 58.05804541079061,
+      "damage_rate": 21.118942076740414,
+      "estimated_revenue": 136214690
+    },
+    {
+      "year": 2021,
+      "sell_through_rate": 56.96257037236774,
+      "damage_rate": 21.53651750161735,
+      "estimated_revenue": 126058300
+    },
+    {
+      "year": 2022,
+      "sell_through_rate": 53.17458353037971,
+      "damage_rate": 20.73991582876575,
+      "estimated_revenue": 137304600
+    },
+    {
+      "year": 2023,
+      "sell_through_rate": 56.58956486877012,
+      "damage_rate": 24.061907226823944,
+      "estimated_revenue": 122421490
+    },
+    {
+      "year": 2024,
+      "sell_through_rate": 55.50062236550733,
+      "damage_rate": 21.76936528181272,
+      "estimated_revenue": 109561425
+    }
+  ],
+  "quarterly_performance": [
+    {
+      "quarter": "Q1",
+      "sell_through_rate": 59.21808193564943,
+      "estimated_revenue": 2588940.3333333335,
+      "total_sold": 3797691
+    },
+    {
+      "quarter": "Q2",
+      "sell_through_rate": 54.81684931212405,
+      "estimated_revenue": 2445374.2672413792,
+      "total_sold": 3285365
+    },
+    {
+      "quarter": "Q3",
+      "sell_through_rate": 53.788052532224256,
+      "estimated_revenue": 2501355.198412698,
+      "total_sold": 3609673
+    },
+    {
+      "quarter": "Q4",
+      "sell_through_rate": 56.02252355841563,
+      "estimated_revenue": 2448764.0217391304,
+      "total_sold": 3951521
+    }
+  ],
+  "monthly_sales": {
+    "January": 1105925,
+    "February": 1416008,
+    "March": 1275758,
+    "April": 1082624,
+    "May": 1005090,
+    "June": 1197651,
+    "July": 1271285,
+    "August": 1215834,
+    "September": 1122554,
+    "October": 1384803,
+    "November": 1502632,
+    "December": 1064086
+  },
+  "performance_summary": {
+    "best_year": {
+      "year": 2020,
+      "sell_through_rate": 58.05804541079061
+    },
+    "worst_year": {
+      "year": 2022,
+      "sell_through_rate": 53.17458353037971
+    },
+    "best_quarter": {
+      "quarter": "Q1",
+      "sell_through_rate": 59.21808193564943
+    },
+    "worst_quarter": {
+      "quarter": "Q3",
+      "sell_through_rate": 53.788052532224256
+    }
+  }
+}
